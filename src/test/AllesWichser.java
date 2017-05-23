@@ -30,7 +30,7 @@ while(r==r1){
 	
 	if (r ==0){
 		if ( sex.equals("M")){
-		System.out.println(name+" ist ein Mädchen.");
+		System.out.println(name+" ist ein MÃ¤dchen.");
 		}
 		else{
 			System.out.println(name+" ist ein Mann.");
@@ -49,7 +49,7 @@ while(r==r1){
 	}
 
 	if(r == 3){
-		System.out.println(name+" ist voll in Ordnung.");
+		System.out.println(name+" ist ein Wichser.");
 	}
 	
 	if(r == 4){
@@ -64,7 +64,7 @@ while(r==r1){
 	}
 	
 	if( name.equals("Jerry")){
-		System.out.println("Jerry stinkt und ist dumm. Er ist ein Wichse, Schwuchtel und Fotzkopf. er Sollte mal duschen Gehen. und mundgeruch hat er auch.");
+		System.out.println(name+" ist der schlimmste Mensch auf der Welt.");
 	}
 	 r1 = r;
    }
